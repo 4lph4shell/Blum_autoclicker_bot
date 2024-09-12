@@ -1,4 +1,4 @@
-# Blum_autocliker_bot
+# Blum_autoclicker_bot
 blum auto clicker 4lph4 edition
 Blum Auto Clicker - is a tool designed to help you manage and interact with BlumCryptoBot. This tool will click on green objects instead of you, earning from 200-250 blums.
 
