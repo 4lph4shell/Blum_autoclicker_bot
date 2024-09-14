@@ -27,7 +27,7 @@ The second method uses Python to install PIP without downloading or running any 
 # Installation
 Clone the repository:
 </pre></header><pre><code class="hljs language-html"><span class="hljs-tag"><span class="hljs-name">git clone https://github.com/4lph4shell/Blum_autocliker_bot.git </code></pre></div>
-</pre></header><pre><code class="hljs language-html"><span class="hljs-tag"><span class="hljs-name">cd blum-auto-clicker</code></pre></div>
+</pre></header><pre><code class="hljs language-html"><span class="hljs-tag"><span class="hljs-name">cd Blum_autocliker_bot</code></pre></div>
 Run the installation script: Run the following command in the command prompt:
 </pre></header><pre><code class="hljs language-html"><span class="hljs-tag"><span class="hljs-name">pip install -r requirements.txt</code></pre></div>
 # Usage
